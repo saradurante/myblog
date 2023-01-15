@@ -9,8 +9,8 @@ export const site: SiteConfig = {
   description: 'Powered by SvelteKit/Urara',
   author: {
     name: 'Sara Durante',
-    status: '🌸',
-    bio: 'lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    status: '👩🏽‍🍳',
+    bio: 'Blog di ricette healthy e fit, ma con gusto!'
   },
   themeColor: '#3D4451'
 }
