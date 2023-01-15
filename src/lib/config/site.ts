@@ -5,10 +5,10 @@ export const site: SiteConfig = {
   domain: import.meta.env.URARA_SITE_DOMAIN ?? 'urara-demo.netlify.app',
   title: 'Urara',
   subtitle: 'Sweet & Powerful SvelteKit Blog Template',
-  lang: 'en-US',
+  lang: 'it-IT',
   description: 'Powered by SvelteKit/Urara',
   author: {
-    name: 'John Doe',
+    name: 'Sara Durante',
     status: '🌸',
     bio: 'lorem ipsum dolor sit amet, consectetur adipiscing elit.'
   },
