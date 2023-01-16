@@ -6,6 +6,10 @@ tags:
   - 'about me'
 ---
 
-Hey sono sara oggi parleremo di **pane pita** cu *nduja*
+Hey sono Sara, non sono una cuoca di professione, però mi appassiona cucinare 🥣
 
-hello [nome link](https://www.google.com)
+Nel tempo libero mi alleno 🏋🏽‍♀️ e cerco di mantenere uno stile di vita sano ed equilibrato ⚖️
+
+In cucina mi piace sperimentare e cerco di cucinare i "soliti" alimenti in modo alternativo, 
+healthy e possibilmente salvatempo ⏰ 
+
