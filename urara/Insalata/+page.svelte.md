@@ -11,6 +11,9 @@ tags:
   - 'Easy'
 
 ---
+*Difficoltà*: Molto facile
+
+*Tempo di preparazione*: 25 minuti
 
 **Ingredienti**
 
