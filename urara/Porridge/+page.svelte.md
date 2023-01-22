@@ -11,6 +11,10 @@ tags:
   - 'Easy'
 
 ---
+*Difficoltà*: Molto facile
+
+*Tempo di preparazione*: 5 minuti
+
 
 **Ingredienti**
 
@@ -30,7 +34,7 @@ coprire del tutto i fiocchi di avena.
 
 Mettere in microonde per 4 minuti a 800W o in 
 alternativa in un pentolino antiaderente, fino adassorbimento del latte.
- 
+
 Aggiungere lo yogurt a copertura, tagliare le fragole e finire con un cucchiaino di 
 burro di arachidi o in alternativa il burro di frutta secca preferito. 
 
