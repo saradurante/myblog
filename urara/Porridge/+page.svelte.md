@@ -1,6 +1,6 @@
 ---
 title: 'Porridge fragole e cocco'
-image: '/assets/'
+image: '/assets/porridge.jpg'
 created: 2023-01-15
 updated: 2023-01-15
 tags:
